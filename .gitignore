@@ -11,3 +11,5 @@ nbproject
 /app/html/typo3conf/ext/t3olayout/
 /app/vendor/
 /app/html/typo3conf/deprecation_*
+/app/html/index.php
+/app/html/typo3/
