@@ -10,3 +10,4 @@ nbproject
 /app/html/typo3conf/ext/realurl/
 /app/html/typo3conf/ext/t3olayout/
 /app/vendor/
+/app/html/typo3conf/deprecation_*
