@@ -1,3 +1,39 @@
+## Instructions for typo3.org template
+
+go to root folder and type `docker-compose up'
+
+When Docker-Boilerplate is running, open `http://localhost:8000/adminer.php`
+
+enter the following:
+
+user: dev
+
+password: dev
+
+host: mysql
+
+db: typo3
+
+In Adminer import this sql file:
+
+https://drive.google.com/drive/folders/0B2tXMxwFfrK6ckxCRXoyb3RuQzg?usp=sharing
+
+Then go to your terminal and cd into app
+
+In app do a `composer install`
+
+
+When done, you cd into app/html/typo3conf/ext/t3olayout/Private 
+
+and run `npm install`
+
+You will then have the Grunt-Tasks ready to compile CSS and JS needed. 
+
+
+
+##This is based on TYPO3 docker boilerplate from WEBDEVOPS
+
+
 ![TYPO3 Docker Boilerplate](https://static.webdevops.io/typo3-docker-boilerplate.svg)
 
 [![latest v5.2.0-beta3](https://img.shields.io/badge/latest-v5.2.0_beta3-green.svg?style=flat)](https://github.com/webdevops/TYPO3-docker-boilerplate/releases/tag/5.2.0-beta3)
@@ -57,6 +93,8 @@ Thanks for your support, ideas and issues.
 - [Stephan Ferraro](https://github.com/ferraro)
 - [Cedric Ziel](https://github.com/cedricziel)
 - [Elmar Hinz](https://github.com/elmar-hinz)
+
+
 
 
 Thanks to [cron IT GmbH](http://www.cron.eu/) for inspiration.
