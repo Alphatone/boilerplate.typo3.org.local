@@ -13,3 +13,5 @@ nbproject
 /app/html/typo3conf/deprecation_*
 /app/html/index.php
 /app/html/typo3/
+app/html/typo3
+/app/bin/
