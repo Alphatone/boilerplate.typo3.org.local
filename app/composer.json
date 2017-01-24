@@ -1,0 +1,45 @@
+{
+  "name": "t3o/typo3.org",
+  "description": "Website for TYPO3.org",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "t3o team",
+      "email": "maintenance@typo3.org"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://composer.typo3.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://git-t3o.typo3.org/t3o/t3olayout.git"
+    }
+  ],
+  "require": {
+    "typo3/cms": "dev-TYPO3_7-6",
+    "Helhum/typo3-console": "4.0.0",
+    "dmitryd/typo3-realurl": "^2.1",
+    "typo3/t3olayout":"dev-template"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "extra": {
+    "typo3/cms": {
+      "web-dir": "html"
+    },
+    "helhum/typo3-console": {
+      "install-binary": true,
+      "install-extension-dummy": false
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "t3o\\t3olayout\\": "html/typo3conf/ext/t3olayout/Classes"
+    }
+  }
+}
+

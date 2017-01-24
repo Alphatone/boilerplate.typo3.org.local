@@ -2,7 +2,10 @@
 .idea
 nbproject
 /backup/*
-/app/*
+
+/app/html/fileadmin/
+/app/html/uploads/
+/app/html/typo3temp/
 
 /app/html/typo3conf/ext/realurl/
 /app/html/typo3conf/ext/t3olayout/
