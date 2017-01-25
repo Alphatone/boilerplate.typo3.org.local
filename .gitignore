@@ -15,3 +15,5 @@ nbproject
 /app/html/typo3/
 app/html/typo3
 /app/bin/
+/app/typo3_src/
+/app/html/typo3conf/ENABLE_INSTALL_TOOL
