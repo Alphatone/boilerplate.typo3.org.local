@@ -19,9 +19,8 @@
     }
   ],
   "require": {
-    "typo3/cms": "dev-TYPO3_7-6",
+    "typo3/cms": "8.5.1 as 8.4.0",
     "Helhum/typo3-console": "4.0.0",
-    "dmitryd/typo3-realurl": "^2.1",
     "typo3/t3olayout":"dev-template"
   },
   "config": {
