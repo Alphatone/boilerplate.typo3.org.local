@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "335ebb4be469a40e7d3825fb1edccd38",
     "content-hash": "a75ec8d60caeb3b5139e63742c6969b9",
     "packages": [
         {
@@ -56,7 +55,7 @@
                 "string",
                 "text"
             ],
-            "time": "2014-05-19 10:25:02"
+            "time": "2014-05-19T10:25:02+00:00"
         },
         {
             "name": "doctrine/annotations",
@@ -124,7 +123,7 @@
                 "docblock",
                 "parser"
             ],
-            "time": "2016-12-30 15:59:45"
+            "time": "2016-12-30T15:59:45+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -194,7 +193,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2016-10-29 11:16:17"
+            "time": "2016-10-29T11:16:17+00:00"
         },
         {
             "name": "doctrine/collections",
@@ -261,7 +260,7 @@
                 "collections",
                 "iterator"
             ],
-            "time": "2017-01-03 10:49:41"
+            "time": "2017-01-03T10:49:41+00:00"
         },
         {
             "name": "doctrine/common",
@@ -334,7 +333,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2017-01-13 14:02:13"
+            "time": "2017-01-13T14:02:13+00:00"
         },
         {
             "name": "doctrine/dbal",
@@ -405,7 +404,7 @@
                 "persistence",
                 "queryobject"
             ],
-            "time": "2017-01-23 23:17:10"
+            "time": "2017-01-23T23:17:10+00:00"
         },
         {
             "name": "doctrine/inflector",
@@ -472,7 +471,7 @@
                 "singularize",
                 "string"
             ],
-            "time": "2015-11-06 14:35:42"
+            "time": "2015-11-06T14:35:42+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -526,7 +525,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14 21:17:01"
+            "time": "2015-06-14T21:17:01+00:00"
         },
         {
             "name": "doctrine/lexer",
@@ -580,7 +579,7 @@
                 "lexer",
                 "parser"
             ],
-            "time": "2014-09-09 13:34:57"
+            "time": "2014-09-09T13:34:57+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -642,7 +641,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2016-10-08 15:01:37"
+            "time": "2016-10-08T15:01:37+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -693,7 +692,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2016-12-20 10:07:11"
+            "time": "2016-12-20T10:07:11+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -751,7 +750,7 @@
                 "stream",
                 "uri"
             ],
-            "time": "2016-06-24 23:00:38"
+            "time": "2016-06-24T23:00:38+00:00"
         },
         {
             "name": "helhum/typo3-console",
@@ -836,20 +835,20 @@
                 "console",
                 "typo3"
             ],
-            "time": "2016-11-01 14:48:47"
+            "time": "2016-11-01T14:48:47+00:00"
         },
         {
             "name": "helhum/typo3-console-plugin",
-            "version": "1.6.0",
+            "version": "1.6.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TYPO3-Console/typo3-console-plugin.git",
-                "reference": "6b964fb572692c2ada04979aeb2a2faf16ca60c0"
+                "reference": "9d79c0a271f1d6a4d51c74936b9325ad1a1a698e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TYPO3-Console/typo3-console-plugin/zipball/6b964fb572692c2ada04979aeb2a2faf16ca60c0",
-                "reference": "6b964fb572692c2ada04979aeb2a2faf16ca60c0",
+                "url": "https://api.github.com/repos/TYPO3-Console/typo3-console-plugin/zipball/9d79c0a271f1d6a4d51c74936b9325ad1a1a698e",
+                "reference": "9d79c0a271f1d6a4d51c74936b9325ad1a1a698e",
                 "shasum": ""
             },
             "require": {
@@ -891,7 +890,7 @@
                 "plugin",
                 "typo3 console"
             ],
-            "time": "2017-01-17 09:36:15"
+            "time": "2017-01-26T11:55:03+00:00"
         },
         {
             "name": "mso/idna-convert",
@@ -940,7 +939,7 @@
                 "idna",
                 "php"
             ],
-            "time": "2016-06-19 18:08:43"
+            "time": "2016-06-19T18:08:43+00:00"
         },
         {
             "name": "psr/http-message",
@@ -990,7 +989,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06 14:39:51"
+            "time": "2016-08-06T14:39:51+00:00"
         },
         {
             "name": "psr/log",
@@ -1037,7 +1036,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "swiftmailer/swiftmailer",
@@ -1091,7 +1090,7 @@
                 "mail",
                 "mailer"
             ],
-            "time": "2016-12-29 10:02:40"
+            "time": "2016-12-29T10:02:40+00:00"
         },
         {
             "name": "symfony/console",
@@ -1154,7 +1153,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-08 20:47:33"
+            "time": "2017-01-08T20:47:33+00:00"
         },
         {
             "name": "symfony/debug",
@@ -1211,7 +1210,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/finder",
@@ -1260,7 +1259,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -1319,7 +1318,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2016-11-14 01:06:16"
+            "time": "2016-11-14T01:06:16+00:00"
         },
         {
             "name": "symfony/process",
@@ -1368,7 +1367,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-02 20:32:22"
+            "time": "2017-01-02T20:32:22+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -1423,7 +1422,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2017-01-03 13:51:32"
+            "time": "2017-01-03T13:51:32+00:00"
         },
         {
             "name": "typo3/class-alias-loader",
@@ -1481,7 +1480,7 @@
                 "classloader",
                 "composer"
             ],
-            "time": "2015-10-06 10:25:44"
+            "time": "2015-10-06T10:25:44+00:00"
         },
         {
             "name": "typo3/cms",
@@ -1690,7 +1689,7 @@
                 "extbase",
                 "typo3"
             ],
-            "time": "2017-01-03 11:16:11"
+            "time": "2017-01-03T11:16:11+00:00"
         },
         {
             "name": "typo3/cms-composer-installers",
@@ -1758,7 +1757,7 @@
                 "installer",
                 "typo3"
             ],
-            "time": "2016-07-05 09:38:42"
+            "time": "2016-07-05T09:38:42+00:00"
         },
         {
             "name": "typo3/t3olayout",
@@ -1766,7 +1765,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git-t3o.typo3.org/t3o/t3olayout.git",
-                "reference": "fe51e090f3fad46d8a02041a8bff32a64fd5ff7e"
+                "reference": "e25fdbf2433bddd06bd3770444708a3efd3aa19d"
             },
             "type": "typo3-cms-extension",
             "license": [
@@ -1777,7 +1776,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2017-01-24 16:03:26"
+            "time": "2017-01-27 07:57:18"
         },
         {
             "name": "typo3fluid/fluid",
@@ -1816,7 +1815,7 @@
                 "LGPL-3.0"
             ],
             "description": "The TYPO3 Fluid template rendering engine",
-            "time": "2017-01-18 15:34:20"
+            "time": "2017-01-18T15:34:20+00:00"
         }
     ],
     "packages-dev": [],
