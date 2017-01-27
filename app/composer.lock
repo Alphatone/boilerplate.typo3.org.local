@@ -1765,7 +1765,7 @@
             "source": {
                 "type": "git",
                 "url": "https://git-t3o.typo3.org/t3o/t3olayout.git",
-                "reference": "e25fdbf2433bddd06bd3770444708a3efd3aa19d"
+                "reference": "04762f228c6b3ed6ac05523f7b55b5f5ef7712b8"
             },
             "type": "typo3-cms-extension",
             "license": [
@@ -1776,7 +1776,7 @@
             "keywords": [
                 "TYPO3 CMS"
             ],
-            "time": "2017-01-27 07:57:18"
+            "time": "2017-01-27 08:03:35"
         },
         {
             "name": "typo3fluid/fluid",
