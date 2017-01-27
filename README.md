@@ -29,6 +29,9 @@ and run `npm install`
 
 You will then have the Grunt-Tasks ready to compile CSS and JS needed. 
 
+The user for the backend can be found in the official TYPO3.org Docker.
+You will find this repo in gitlab. In the project itself there is an .env file where the user t3o can be found.
+
 
 
 ##This is based on TYPO3 docker boilerplate from WEBDEVOPS
