@@ -21,7 +21,7 @@
   "require": {
     "typo3/cms": "8.5.1 as 8.4.0",
     "Helhum/typo3-console": "4.0.0",
-    "typo3/t3olayout":"dev-template"
+    "t3o/t3olayout":"dev-template"
   },
   "config": {
     "bin-dir": "bin"
