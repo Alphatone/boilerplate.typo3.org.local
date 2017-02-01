@@ -18,6 +18,11 @@
       "url": "https://git-t3o.typo3.org/t3o/t3olayout.git"
     }
   ],
+  "require": {
+    "typo3/cms": "8.5.1 as 8.4.0",
+    "Helhum/typo3-console": "4.0.0",
+    "t3o/t3olayout":"dev-template"
+  },
   "config": {
     "bin-dir": "bin"
   },
@@ -28,6 +33,11 @@
     "helhum/typo3-console": {
       "install-binary": true,
       "install-extension-dummy": false
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "t3o\\t3olayout\\": "html/typo3conf/ext/t3olayout/Classes"
     }
   }
 }
