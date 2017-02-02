@@ -39,6 +39,14 @@
     "psr-4": {
       "t3o\\t3olayout\\": "html/typo3conf/ext/t3olayout/Classes"
     }
+  },
+  "scripts": {
+    "post-update-cmd": [
+      "cd html/typo3conf/ext/t3olayout/Resources/Private/ && npm install && grunt"
+    ],
+    "post-install-cmd": [
+      "cd html/typo3conf/ext/t3olayout/Resources/Private/ && npm install && grunt"
+    ]
   }
 }
 
